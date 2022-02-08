@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+
+* {
+    font-family: 'Quicksand';
+}
+
+.App {
+    margin: 0;
+    padding: 15px;
+}
+
+button {
+    border: none;
+    padding: 5px 15px;
+    margin-left: 20px;
+    background: #1212;
+    border-radius: 5px;
+}
+
+input {
+    padding: 5px;
+    border: 1px solid #1212;
+}
